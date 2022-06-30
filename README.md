@@ -1,6 +1,6 @@
 # Blockchain-homework
 
-This is a demonstractional program written in python to where a user can create mock hashed-block transactions and validate them in a mock blockchain environment. 
+This is a demonstractional program written in python and run in streamlit, where a user can create mock hashed-block transactions and validate them in a mock blockchain environment. 
 
 ![Pychain_screenshot.png](Pychain_screenshot.png)
 
